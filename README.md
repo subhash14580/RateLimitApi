@@ -10,4 +10,4 @@
 </ol>
 
 
-<h3>Developed Using TOKEN-BUCKET-ALGORITHM </h3>
+<center><h3>Developed Using TOKEN-BUCKET-ALGORITHM </h3></center>
